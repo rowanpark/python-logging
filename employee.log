@@ -1,0 +1,9 @@
+employee.py:24:INFO:__main__:Created Employee: Jhon Smith - Jhon.Smith@email.com
+employee.py:24:INFO:__main__:Created Employee: Corey Schafer - Corey.Schafer@email.com
+employee.py:24:INFO:__main__:Created Employee: Renee Park - Renee.Park@email.com
+employee.py:24:INFO:employee:Created Employee: Jhon Smith - Jhon.Smith@email.com
+employee.py:24:INFO:employee:Created Employee: Corey Schafer - Corey.Schafer@email.com
+employee.py:24:INFO:employee:Created Employee: Renee Park - Renee.Park@email.com
+employee.py:24:INFO:employee:Created Employee: Jhon Smith - Jhon.Smith@email.com
+employee.py:24:INFO:employee:Created Employee: Corey Schafer - Corey.Schafer@email.com
+employee.py:24:INFO:employee:Created Employee: Renee Park - Renee.Park@email.com
